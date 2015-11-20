@@ -69,3 +69,15 @@ img {
     width: 470px;
     margin: 0 220px 0 40px;
     float: right; }
+
+#footer {
+  border-top: 7px solid #000;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: .875em;
+  height: 14px;
+  padding: 17px 0; }
+  #footer a {
+    color: #000;
+    text-decoration: none; }
+    #footer a:hover {
+      color: #919191; }

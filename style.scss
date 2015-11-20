@@ -81,3 +81,17 @@ img {
 		float: right;
 	}
 }
+#footer {
+	border-top:7px solid #000;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: .875em;
+	height: 14px;
+	padding: 17px 0;
+	a {
+		color:#000;
+		text-decoration: none;
+		&:hover {
+			color: #919191;
+		}
+	}
+}
