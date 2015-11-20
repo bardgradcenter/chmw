@@ -11,6 +11,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/chmw-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243730,
+		"inputAbbreviatedPath": "\/images\/chmw-02.jpg",
+		"outputAbbreviatedPath": "\/images\/chmw-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/CHMW_logo_trim.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 125534,
+		"inputAbbreviatedPath": "\/images\/CHMW_logo_trim.jpg",
+		"outputAbbreviatedPath": "\/images\/CHMW_logo_trim.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/CHMW_logo_trim_resized.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12000,
+		"inputAbbreviatedPath": "\/images\/CHMW_logo_trim_resized.jpg",
+		"outputAbbreviatedPath": "\/images\/CHMW_logo_trim_resized.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -60,7 +93,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Alex Hills",
+"lastSavedByUser": "alexweisshills",
 "manualImportLinks": {
 	},
 "projectAttributes": {
