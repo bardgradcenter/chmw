@@ -11,6 +11,13 @@ body {
 img {
 	display: block;
 }
+a {
+	color:#b4314d;
+	text-decoration:none;
+	&:hover {
+		text-decoration:underline;
+	}
+}
 #container {
 	width: 954px;
 	padding: 36px 10px;
@@ -39,7 +46,8 @@ img {
 			color:#000;
 			text-decoration: none;
 			&:hover {
-				color: #919191;
+				color: #b4314d;
+				text-decoration:underline;
 			}
 		}
 	}
@@ -91,7 +99,8 @@ img {
 		color:#000;
 		text-decoration: none;
 		&:hover {
-			color: #919191;
+			color: #b4314d;
+			text-decoration:underline;
 		}
 	}
 }

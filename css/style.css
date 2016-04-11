@@ -11,6 +11,12 @@ body {
 img {
   display: block; }
 
+a {
+  color: #b4314d;
+  text-decoration: none; }
+  a:hover {
+    text-decoration: underline; }
+
 #container {
   width: 954px;
   padding: 36px 10px;
@@ -38,7 +44,8 @@ img {
       color: #000;
       text-decoration: none; }
       #nav ul a:hover {
-        color: #919191; }
+        color: #b4314d;
+        text-decoration: underline; }
 
 .content {
   padding-top: 55px; }
@@ -80,4 +87,5 @@ img {
     color: #000;
     text-decoration: none; }
     #footer a:hover {
-      color: #919191; }
+      color: #b4314d;
+      text-decoration: underline; }
